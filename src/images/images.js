@@ -1,4 +1,4 @@
-import SpigenUltraHybrid from "./SpigenUltraHybrid.avif"
+import SpigenUltraHybrid from "./SpigenUltraHybrid.png"
 import Badeendjes from "./Badeendjes.jpg"
 import Thermosfles from "./Thermosbeker.jpg"
 import Trimmer from "./Trimmer.jpg"
