@@ -1,29 +1,15 @@
-import SpigenUltraHybrid from "./SpigenUltraHybrid.png"
-import Badeendjes from "./Badeendjes.jpg"
-import Thermosfles from "./Thermosbeker.jpg"
-import Trimmer from "./Trimmer.jpg"
-import TheKingsman from "./TheKingsman.jpg"
-import Steam from "./Steam.png"
-import FleeceTrui from "./FleeceTrui.webp"
+import Biertoren from "./Biertoren.jpg"
+import Deurkapstok from "./Deurkapstok.jpg"
 import FleeceDeken from "./FleeceDeken.webp"
-import Drinkfles from "./Drinkfles.webp"
 import Lunchbox from "./LunchBox.webp"
+import Sportbroek from "./Sportbroek.jpg"
 import Zonnebril from "./Zonnebril.webp"
-import Riem from "./Riem.webp"
-import Powerbank from "./Powerbank.webp"
 
 export{
-    SpigenUltraHybrid,
-    Badeendjes,
-    Thermosfles,
-    Trimmer,
-    TheKingsman,
-    Steam,
-    FleeceTrui,
     FleeceDeken,
-    Drinkfles,
     Lunchbox,
     Zonnebril,
-    Riem,
-    Powerbank
+    Sportbroek,
+    Biertoren,
+    Deurkapstok
 }

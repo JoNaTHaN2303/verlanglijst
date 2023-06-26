@@ -1,3 +1,5 @@
+import * as images from "../images/images"
+
 import React from 'react'
 
 export default function Product({naam, info, foto, url}){
@@ -5,7 +7,7 @@ export default function Product({naam, info, foto, url}){
   return(
     <div className="">
         <div className="bg-white flex justify-center">
-            <img className='h-80' src={foto} alt=""/>
+            <img className='h-80' src={images[foto]} alt=""/>
         </div>
         <p className="text-xl lg:text-2xl border-b-2 mt-2 pb-1 border-gray-400">{naam}</p>
         <p className='text-base lg:text-lg mt-2 pb-1'>{info}</p>

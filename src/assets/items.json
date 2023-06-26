@@ -1,0 +1,38 @@
+[
+    {
+        "naam": "Fleece deken",
+        "info": "Als we ergens naartoe gaan om een dekentje mee te nemen.",
+        "image": "FleeceDeken",
+        "url": "https://www.zalando.be/brandit-strandaccessoire-black-brm54g003-q11.html"
+    },
+    {
+        "naam": "Lunch Box",
+        "info": "Om mee te nemen naar school of ergens anders.",
+        "image": "Lunchbox",
+        "url": "https://www.zalando.be/urban-classics-lettered-lunch-box-overige-accessoires-black-ur654e00d-q11.html"
+    },
+    {
+        "naam": "Zonnebril Jack & Jones",
+        "info": "Ik heb een nieuwe zonnebril wegens kapotgaan van oude. (een andere mag ook zolang hij mooi is natuurlijk)",
+        "image": "Zonnebril",
+        "url": "https://www.zalando.be/jack-and-jones-jacmaverick-sunglasses-zonnebril-ja252k01k-a11.html"
+    },
+    {
+        "naam": "Sportbroek",
+        "info": "Om makkelijk gsm bij te houden bij het lopen.",
+        "image": "Sportbroek",
+        "url": "https://www.bol.com/be/nl/p/mw-sportbroek-heren-fitnessbroek-sportkleding-2-in-1-shorts-hardloopbroek/9300000000483729/"
+    },
+    {
+        "naam": "Biertoren",
+        "info": "Is handig voor als we ene gaan drinken.",
+        "image": "Biertoren",
+        "url": "https://www.bol.com/be/nl/p/relaxdays-biertoren-met-tap-thuistap-biertap-bier-dispenser-drankdispenser/9200000080292752/"
+    },
+    {
+        "naam": "Deurkapstok",
+        "info": "De kapstok die ik nu heb is te klein aan het worden.",
+        "image": "Deurkapstok",
+        "url": "https://www.bol.com/be/nl/p/sensahome-deurkapstok-12-haaks-met-opbergmand-deurhanger-deurhaak-opbergrek-rvs-zwart/9300000120381487/"
+    }
+]
