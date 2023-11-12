@@ -11,7 +11,7 @@ export default function Product({naam, info, foto, url}){
         </div>
         <p className="text-xl lg:text-2xl border-b-2 mt-2 pb-1 border-gray-400">{naam}</p>
         <p className='text-base lg:text-lg mt-2 pb-1'>{info}</p>
-        <a className='flex justify-center items-center rounded-md w-full h-10 mt-2 shadow-xl hover:bg-gray-400 hover:text-[#373A36] duration-500' href={url} target="_blank" rel='noreferrer'>Link naar de productpagina</a>
+        <a className='flex justify-center items-center rounded-md w-full h-10 mt-2 shadow-xl bg-gray-400 text-[#373A36] hover:bg-gray-500 duration-500' href={url} target="_blank" rel='noreferrer'>Link naar de productpagina</a>
     </div>
   )
 }

@@ -1,27 +1,15 @@
 [
     {
-        "naam": "Fleece deken",
-        "info": "Als we ergens naartoe gaan om een dekentje mee te nemen.",
-        "image": "FleeceDeken",
-        "url": "https://www.zalando.be/brandit-strandaccessoire-black-brm54g003-q11.html"
-    },
-    {
         "naam": "Lunch Box",
         "info": "Om mee te nemen naar school of ergens anders.",
         "image": "Lunchbox",
         "url": "https://www.zalando.be/urban-classics-lettered-lunch-box-overige-accessoires-black-ur654e00d-q11.html"
     },
     {
-        "naam": "Zonnebril Jack & Jones",
-        "info": "Ik heb een nieuwe zonnebril wegens kapotgaan van oude. (een andere mag ook zolang hij mooi is natuurlijk)",
-        "image": "Zonnebril",
-        "url": "https://www.zalando.be/jack-and-jones-jacmaverick-sunglasses-zonnebril-ja252k01k-a11.html"
-    },
-    {
-        "naam": "Sportbroek",
-        "info": "Om makkelijk gsm bij te houden bij het lopen.",
-        "image": "Sportbroek",
-        "url": "https://www.bol.com/be/nl/p/mw-sportbroek-heren-fitnessbroek-sportkleding-2-in-1-shorts-hardloopbroek/9300000000483729/"
+        "naam": "Monitorlamp",
+        "info": "Voor de late night studeer sessies.",
+        "image": "Monitorlamp",
+        "url": "https://www.amazon.com.be/-/nl/Quntis-Anti-blauw-schermlamp-verstelbare-computerscherm/dp/B08DKQ3JG1/ref=sr_1_5?crid=1SHY090436ILI&keywords=monitorlamp&qid=1699829750&sprefix=monitorlamp%2Caps%2C80&sr=8-5"
     },
     {
         "naam": "Biertoren",
@@ -30,21 +18,27 @@
         "url": "https://www.bol.com/be/nl/p/relaxdays-biertoren-met-tap-thuistap-biertap-bier-dispenser-drankdispenser/9200000080292752/"
     },
     {
-        "naam": "Deurkapstok",
-        "info": "De kapstok die ik nu heb is te klein aan het worden.",
-        "image": "Deurkapstok",
-        "url": "https://www.bol.com/be/nl/p/sensahome-deurkapstok-12-haaks-met-opbergmand-deurhanger-deurhaak-opbergrek-rvs-zwart/9300000120381487/"
+        "naam": "Kookwekker",
+        "info": "Binnenkort als ik chef kok ga spelen.",
+        "image": "Kookwekker",
+        "url": "https://www.bol.com/be/nl/p/hk-goodies-digitale-kookwekker-keukenwekker-magnetische-timer-douchetimer-stopwatch-draaiknop-kookwekker-led-display-smart-timer-optellen-aftellen-zilver/9300000145054835/?bltgh=kFBIbPJMdTugEeX0vxlBJA.2_18.24.ProductTitle"
     },
     {
-        "naam": "Geheugenkaart",
-        "info": "Voor in mijn toekomstige camera.",
-        "image": "Geheugenkaart",
-        "url": "https://www.bol.com/be/nl/p/sandisk-sdxc-ultra-256gb-sdxc-kaart-256-gb-uhs-class-1-waterdicht-schokbestendig/9300000113229415/"
+        "naam": "Xbox controller",
+        "info": "Om draadloos die coole race spelletjes te spelen.",
+        "image": "XboxController",
+        "url": "https://www.xbox.com/nl-BE/accessories/controllers/xbox-wireless-controller-adapter-windows"
     },
     {
-        "naam": "Cameratas",
-        "info": "Voor een toekomstige camera in te bewaren.",
-        "image": "Cameratas",
-        "url": "https://www.bol.com/be/nl/p/case-logic-bryker-camera-case-dslr-large-cameratas-zwart/9200000083125340/"
+        "naam": "Xbox batterij",
+        "info": "Een batterij voor de draadloze controller.",
+        "image": "XboxBatterij",
+        "url": "https://www.xbox.com/nl-NL/accessories/batteries-chargers/play-and-charge-kit"
+    },
+    {
+        "naam": "Zonnebril Jack & Jones",
+        "info": "Ik heb een nieuwe zonnebril wegens kapotgaan van oude. (een andere mag ook zolang hij mooi is natuurlijk)",
+        "image": "Zonnebril",
+        "url": "https://www.zalando.be/jack-and-jones-jacmaverick-sunglasses-zonnebril-ja252k01k-a11.html"
     }
 ]
