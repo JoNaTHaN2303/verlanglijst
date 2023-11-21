@@ -7,6 +7,7 @@ import XboxController from "./XboxController.jpg"
 import XboxBatterij from "./XboxBatterij.jpg"
 import Rietjes from "./Rietjes.jpg"
 import WCGolf from "./WCGolf.jpg"
+import Ijsjesblokken from "./Ijsjesblokken.jpg"
 
 export{
     Lunchbox,
@@ -17,5 +18,6 @@ export{
     XboxController,
     XboxBatterij,
     Rietjes,
-    WCGolf
+    WCGolf,
+    Ijsjesblokken
 }
