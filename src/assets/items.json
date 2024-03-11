@@ -1,11 +1,5 @@
 [
     {
-        "naam": "Lunch Box",
-        "info": "Om mee te nemen naar school of ergens anders.",
-        "image": "Lunchbox",
-        "url": "https://www.zalando.be/urban-classics-lettered-lunch-box-overige-accessoires-black-ur654e00d-q11.html"
-    },
-    {
         "naam": "Monitorlamp",
         "info": "Voor de late night studeer sessies.",
         "image": "Monitorlamp",
@@ -27,31 +21,7 @@
         "naam": "Xbox controller",
         "info": "Om draadloos die coole race spelletjes te spelen.",
         "image": "XboxController",
-        "url": "https://www.xbox.com/nl-BE/accessories/controllers/xbox-wireless-controller-adapter-windows"
-    },
-    {
-        "naam": "Xbox batterij",
-        "info": "Een batterij voor de draadloze controller.",
-        "image": "XboxBatterij",
-        "url": "https://www.xbox.com/nl-NL/accessories/batteries-chargers/play-and-charge-kit"
-    },
-    {
-        "naam": "Zonnebril Jack & Jones",
-        "info": "Ik heb een nieuwe zonnebril wegens kapotgaan van oude. (een andere mag ook zolang hij mooi is natuurlijk)",
-        "image": "Zonnebril",
-        "url": "https://www.zalando.be/jack-and-jones-jacmaverick-sunglasses-zonnebril-ja252k01k-a11.html"
-    },
-    {
-        "naam": "Potty Putter",
-        "info": "Als bezigheid op de wc.",
-        "image": "WCGolf",
-        "url": "https://www.bol.com/be/nl/p/mikamax-potty-putter-wc-golf-set-met-deurhanger-matje-club-hole-en-2-ballen-past-om-iedere-wc-toilet-golfset/9200000095635739/?Referrer=ADVNLPPcef65f004321483a0000000607f60024717"
-    },
-    {
-        "naam": "Rietjes",
-        "info": "Voor in keukentje binnenkort.",
-        "image": "Rietjes",
-        "url": "https://www.bol.com/be/nl/p/luxe-rvs-rietjes-van-eureco-set-van-20-herbruikbare-rietjes-10-recht-10-gebogen-21-5-cm-duurzaam-en-stijlvol-3-schoonmaakborstels-en-opbergzakje-meerdere-designs-beschikbaar-metalen-rietjes-stalen-rietjes/9200000115230157/?s2a=&bltgh=hc227YrLrWG8m1aRwSFJ-A.2_40_41.42.FeatureOption#productTitle"
+        "url": "https://www.bol.com/be/nl/p/xbox-draadloze-controller-carbon-zwart-series-x-s-xbox-one/9300000009936880/"
     },
     {
         "naam": "Ijsblokjesvorm",
@@ -60,27 +30,27 @@
         "url": "https://www.bol.com/be/nl/p/dynabright-siliconen-ijsblokjesvorm-met-deksel-74-ijsblokjes-bpa-vrij-100-silicone-zwart/9300000150121138/?bltgh=nwsom-WweVlHpRPt77xIgw.rSb-Xq6AgFt4DIE2japJMw_0_16.20.ProductTitle"
     },
     {
-        "naam": "Kookboek",
-        "info": "Dit is zeer handig voor snelle maaltijden te maken.",
-        "image": "Kookboek",
-        "url": "https://www.bol.com/be/nl/p/500-studentenmaaltijden/9200000040774526/?Referrer=ADVNLPPcef659003528fa3a0000000601f60024717"
-    },
-    {
         "naam": "Schaakspel",
         "info": "Af en toe om een spelletje te spelen.",
         "image": "Schaakspel",
         "url": "https://www.bol.com/be/nl/p/out-of-the-blue-schaak-drankspel-met-shotglaasjes/9300000015025462/?bltgh=k3niB2Z1c0f9QoYdiu9OIA.2.4.ProductTitle"
     },
     {
-        "naam": "Onderzetters",
-        "info": "Als de zetel en beamer er is kunnen we van een cocktail genieten.",
-        "image": "Onderzetters",
-        "url": "https://www.bol.com/be/nl/p/zwarte-vilten-onderzetters-voor-glazen-8-stuks-met-houder-rond/9300000156006101/?bltgh=ub7NGhFtY-nQ7-t-5rtGAA.2.4.ProductTitle"
-    },
-    {
         "naam": "Keukenweegschaal",
         "info": "Dit heb ik nodig om al mijn kookkunsten te realiseren.",
         "image": "Keukenweegschaal",
         "url": "https://www.bol.com/be/nl/p/kitchenwell-digitale-precisie-keukenweegschaal-weegschaal-keuken-1gr-15kg-tarra-functie-zwart/9300000121420343/?s2a=&bltgh=hNZs0WTzir-InN-SSuJE0w.2_53_54.55.FeatureOption#productTitle"
+    },
+    {
+        "naam": "Ipad hoesje",
+        "info": "Aangezien de oude aan vervanging toe is, is een nieuwe altijd welkom.",
+        "image": "IpadHoesje",
+        "url": "https://www.bol.com/be/nl/p/ipad-mini-6-hoes-book-case-met-screenprotector-ipad-mini-6-hoesje-cover-case-zwart/9300000088002729/?bltgh=mzLXAj-jLMSbJE5LtU9HFw.2.3.ProductImage"
+    },
+    {
+        "naam": "Drankdispenser",
+        "info": "Voor grote mooie cocktails te maken.",
+        "image": "Drankdispenser",
+        "url": "https://www.weba.be/nl/drankdispenser-8l-400074-478.html"
     }
 ]
